@@ -4693,14 +4693,14 @@ semver@^7.3.5, semver@^7.3.7, semver@^7.3.8, semver@^7.5.3:
   dependencies:
     lru-cache "^6.0.0"
 
-serverless-iam-roles-per-function@^3.2.0:
+serverless-iam-roles-per-function@3.2.0:
   version "3.2.0"
   resolved "https://registry.yarnpkg.com/serverless-iam-roles-per-function/-/serverless-iam-roles-per-function-3.2.0.tgz#8bb5f68e73f391ac8ff9809b8e7726e5bafba4c4"
   integrity sha512-AXmxACHEUsDcFDcv8QNwDgn2L0brRJ7pz/phD3lFB/wQ3TtPJkorC+J7PxgFQbaWIQk15EIlU83BtKXeQoPTAg==
   dependencies:
     lodash "^4.17.20"
 
-serverless-offline@^13.4.0:
+serverless-offline@13.9.0:
   version "13.9.0"
   resolved "https://registry.yarnpkg.com/serverless-offline/-/serverless-offline-13.9.0.tgz#1f081bf5fda94de21cab11fffb8f5fba94f4d742"
   integrity sha512-r/GU1FcgUbrhUzPJ5BOpni6JXhHVhxksYQH8d3S4alx4IZQo3E9Q8fT2z8Mvh+d0rfQ1Y0kHvyeKJ126rleGfg==
@@ -4728,7 +4728,7 @@ serverless-offline@^13.4.0:
     velocityjs "^2.0.6"
     ws "^8.18.0"
 
-serverless@^3.38.0:
+serverless@3.38.0:
   version "3.38.0"
   resolved "https://registry.yarnpkg.com/serverless/-/serverless-3.38.0.tgz#9275763cab3ec1cd29635520cf24b9b5e7202583"
   integrity sha512-NJE1vOn8XmQEqfU9UxmVhkUFaCRmx6FhYw/jITN863WlOt4Y3PQbj3hwQyIb5QS1ZrXFq5ojklwewUXH7xGpdA==
